@@ -24,7 +24,7 @@ Database designer and programmer Java C++---
 ---
 
 ## 📬 Contact Me
-- 📧 Email: yourname@gmail.com  
+- 📧 Email: jaweidmoraadi@gmail.com
 
 ---
 
