@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
 </p>
 
-# 👋 Hi there, I'm Javid Moradi  
+# 👋 Hi there, I'm Jaweid Moraadi 
 
 🎓 I'm a student at **Kabul University**,  
 📚 **ICT Faculty – ISE Department**  
