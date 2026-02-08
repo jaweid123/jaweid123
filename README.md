@@ -10,6 +10,7 @@
 ---
 
 ## 🚀 Skills  
+- introduction AI concept ML machin learning , DL Deep learning and Data scientist
 - Programming  
 - Network Engineering  
 - CCNA Level (Certificate)  
