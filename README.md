@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00ADEF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Jaweid+Moraadi;AI+%7C+ML+%7C+DL+Enthusiast;Network+Engineer+%7C+Developer;ICT+Student+at+Kabul+University" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259265-6e8b4c49-66df-4c53-bb28-9c5c8f6b31a9.gif" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&color=00FFCC&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Jaweid+Moraadi;Artificial+Intelligence+Enthusiast;Machine+Learning+%7C+Deep+Learning;Network+Engineer+%7C+Developer;ICT+Student+at+Kabul+University" />
 </p>
 
 ---
@@ -9,83 +13,67 @@
 🎓 **Computer Science Student**  
 🏫 ICT Faculty – ISE Department | Kabul University  
 
-💡 Passionate about:
-- Artificial Intelligence
-- Machine Learning & Deep Learning
-- Network Engineering
-- Software Development
-
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently learning **AI, Machine Learning & Deep Learning**
-- 🌐 Interested in **Network Engineering & Cyber Security**
-- 📚 Preparing for **CCNA Certification**
-- 💻 Love building real-world software solutions
-- 🎯 Goal: Become AI & Network Specialist
+💡 Passionate about building intelligent and modern technology solutions.
+
+- 🤖 Studying Artificial Intelligence & Machine Learning
+- 🌐 Interested in Network Engineering & Cyber Security
+- 📚 Preparing for CCNA Certification
+- 💻 Software Developer & Problem Solver
+- 🎯 Future AI & Network Specialist
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
-### 🤖 Artificial Intelligence
-- AI Concepts
-- Machine Learning
-- Deep Learning
-- Data Science & Analysis
+### 🤖 AI & Data Science
+- Artificial Intelligence Concepts  
+- Machine Learning  
+- Deep Learning  
+- Data Analysis  
 
 ---
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,php" />
 </p>
 
 ---
 
 ### 🌐 Web Development
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Database Systems
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
 
 ### ⚙️ Tools & IDEs
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,intellij,eclipse" />
 </p>
 
 ---
 
 ### 💻 Operating Systems
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
 ---
@@ -93,36 +81,36 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="170"/>
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 📈 Activity Graph
 
-<p align="left">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
 <a href="mailto:jaweidmoraadi@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/yourusername">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yourusername">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-
-<a href="https://www.facebook.com/yourusername">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
-</a>
-
-<a href="https://twitter.com/yourusername">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ *Thanks for visiting my profile — Welcome to my Tech World*
