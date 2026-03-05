@@ -1,14 +1,17 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259265-6e8b4c49-66df-4c53-bb28-9c5c8f6b31a9.gif" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=00FFCC&center=true&vCenter=true&width=900&lines=Hi,+I'm+Jaweid+Moraadi;AI+Engineer+in+Progress;Network+Engineer+%7C+Developer;DBMS+%26+Web+Developer;ICT+Student+at+Kabul+University" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Jaweid%20Moraadi&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+</div>
 
 ---
 
-# 👨‍💻 Jaweid Moraadi
+<!-- 🔥 Animated Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=00FFCC&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Network+Engineer+%7C+Developer;DBMS+%26+Web+Developer;ICT+Student+at+Kabul+University" />
+</div>
+
+---
+
+## 👨‍💻 Jaweid Moraadi
 
 🎓 **Computer Science Student**  
 🏫 **ICT Faculty – Information Science & Engineering (ISE)**  
@@ -29,24 +32,17 @@ I am a passionate Computer Science student focused on building intelligent, secu
 
 ---
 
-# 🧠 Technical Skills
+## 🧠 Technical Skills
 
-## 🤖 Artificial Intelligence & Data Science
+### 🤖 Artificial Intelligence & Data Science
 - Artificial Intelligence Concepts  
 - Machine Learning  
 - Deep Learning  
 - Data Analysis  
 - Model Training & Evaluation  
 
----
-
-## 💻 Programming & Software Development
-
-- Java  
-- Python  
-- C++  
-- JavaScript  
-- PHP  
+### 💻 Programming & Software Development
+- Java | Python | C++ | JavaScript | PHP  
 - Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms  
 
@@ -54,10 +50,7 @@ I am a passionate Computer Science student focused on building intelligent, secu
 <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,php" />
 </p>
 
----
-
-## 🌐 Network Engineering
-
+### 🌐 Network Engineering
 - Computer Networking Fundamentals  
 - TCP/IP Model  
 - Routing & Switching  
@@ -70,13 +63,8 @@ I am a passionate Computer Science student focused on building intelligent, secu
 <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
----
-
-## 🌍 Web Design & Development
-
-- HTML5  
-- CSS3  
-- React  
+### 🌍 Web Design & Development
+- HTML5 | CSS3 | React  
 - Responsive Web Design  
 - Front-End Development  
 
@@ -84,16 +72,10 @@ I am a passionate Computer Science student focused on building intelligent, secu
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
----
-
-## 🗄️ Database Management (DBMS Developer)
-
-- MySQL  
-- SQL Server  
-- Database Design  
-- ER Diagrams  
-- Normalization  
-- Query Optimization  
+### 🗄️ Database Management (DBMS Developer)
+- MySQL | SQL Server  
+- Database Design | ER Diagrams  
+- Normalization | Query Optimization  
 - Stored Procedures Basics  
 
 <p align="center">
@@ -101,53 +83,47 @@ I am a passionate Computer Science student focused on building intelligent, secu
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
----
-
-## ⚙️ Tools & IDEs
-
+### ⚙️ Tools & IDEs
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,intellij,eclipse" />
 </p>
 
----
-
-## 💻 Operating Systems
-
+### 💻 Operating Systems
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JaweidMoraadi&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaweidMoraadi&theme=radical" height="170"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaweidMoraadi&theme=react-dark"/>
 </p>
 
 ---
 
-# 📬 Contact Me
+## 📬 Contact Me
 
 <p align="center">
 <a href="mailto:jaweidmoraadi@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/JaweidMoraadi">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/jaweid-moraadi/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
