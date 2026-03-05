@@ -4,27 +4,13 @@
 
 ---
 
-<!-- 🔥 Animated Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=00FFCC&center=true&vCenter=true&width=900&lines=💻+Computer+Science+Student;🤖+AI+%26+Machine+Learning+Enthusiast;🌐+Network+Engineer+%26+Cyber+Security;🗄️+DBMS+%26+Web+Developer;🎯+Preparing+for+CCNA+Certification" />
-</div>
-
----
-
-<h2 align="center"> 💡 My Profile Views </h2>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaweidMoraadi&label=Profile%20views&color=8A2BE2&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/JaweidMoraadi?label=Followers&style=for-the-badge&color=1E90FF" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/JaweidMoraadi&style=for-the-badge&color=28A745" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=00FFCC&center=true&vCenter=true&width=900&lines=Hi,+I'm+Jaweid+Moraadi;AI+Engineer+in+Progress;Network+Engineer+%7C+Developer;DBMS+%26+Web+Developer;ICT+Student+at+Kabul+University" />
 </p>
 
 ---
 
-## 👨‍💻 Jaweid Moraadi
+# 👨‍💻 Jaweid Moraadi
 
 🎓 **Computer Science Student**  
 🏫 **ICT Faculty – Information Science & Engineering (ISE)**  
@@ -138,38 +124,38 @@ I am a passionate Computer Science student focused on building intelligent, secu
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JaweidMoraadi&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaweidMoraadi&theme=radical" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaweid123&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaweid123&theme=radical" height="170"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaweidMoraadi&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaweid123&theme=react-dark"/>
 </p>
 
 ---
 
-## 📌 Live Projects
+# 📊 Languages & Skills Radar
 
 <p align="center">
-🌐 <a href="#">Portfolio Website (Coming Soon)</a> |  
-📝 <a href="#">React Todo App (Sample)</a> |  
-🎮 <a href="#">Guess Word Game</a> |  
-🧠 <a href="#">Quiz Application Online</a> |  
-🛍️ <a href="#">Shop Management System</a>  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaweid123&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaweid123&theme=github_dark" />
 </p>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🌐 Live Projects
 
-- 💼 CCNA Preparation & Networking Labs  
-- 🤖 AI & ML Online Workshops  
-- ☁️ Database & Web Development Projects  
-- 🎯 Programming Competitions  
+<p align="center">
+🌐 <a href="#">Portfolio Website</a>  
+| 📝 <a href="#">React Todo App</a> 
+| 🎮 <a href="#">Guess Word Game</a>
+| 💼 <a href="#">Financial Health Tool</a>  
+| 🛍️ <a href="#">E-Commerce Website</a>  
+</p>
 
 ---
 
@@ -179,9 +165,11 @@ I am a passionate Computer Science student focused on building intelligent, secu
 <a href="mailto:jaweidmoraadi@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-<a href="https://github.com/JaweidMoraadi">
+
+<a href="https://github.com/jaweid123">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 <a href="https://www.linkedin.com/in/jaweidmoraadi">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -197,4 +185,4 @@ To become a professional AI Engineer and Network Security Specialist by building
 
 ⭐ **Always Learning**  
 ⭐ **Always Building**  
-⭐ **Always Improving**  
+⭐ **Always Improving  
